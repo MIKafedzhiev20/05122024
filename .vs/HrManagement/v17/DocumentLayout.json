@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RJ\\source\\repos\\HrManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|c:\\users\\rj\\source\\repos\\hrmanagement\\hrmanagement.dataaccess\\context\\hrmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\context\\hrmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|c:\\users\\rj\\source\\repos\\hrmanagement\\hrmanagement.dataaccess\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|c:\\users\\rj\\source\\repos\\hrmanagement\\hrmanagement.dataaccess\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|c:\\users\\rj\\source\\repos\\hrmanagement\\hrmanagement.dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|c:\\users\\rj\\source\\repos\\hrmanagement\\hrmanagement.dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|c:\\users\\rj\\source\\repos\\hrmanagement\\hrmanagement.dataaccess\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A294039-1AE9-4D1D-89D9-968982C39A58}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC387F10-2168-458D-8968-0DAB0193DAE3}|HrManagement\\HrManagement.csproj|c:\\users\\rj\\source\\repos\\hrmanagement\\hrmanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC387F10-2168-458D-8968-0DAB0193DAE3}|HrManagement\\HrManagement.csproj|solutionrelative:hrmanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC387F10-2168-458D-8968-0DAB0193DAE3}|HrManagement\\HrManagement.csproj|c:\\users\\rj\\source\\repos\\hrmanagement\\hrmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC387F10-2168-458D-8968-0DAB0193DAE3}|HrManagement\\HrManagement.csproj|solutionrelative:hrmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:33:24.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Models\\Department.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:31:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HrManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Context\\HrManagementDbContext.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Context\\HrManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Context\\HrManagementDbContext.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Context\\HrManagementDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwBsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:29:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Models\\Employee.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:31:17.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Models\\Project.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:32:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement.DataAccess\\Models\\Assignment.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:30:31.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HrManagement\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement\\WeatherForecast.cs",
+              "RelativeToolTip": "HrManagement\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:12:39.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HrManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\RJ\\source\\repos\\HrManagement\\HrManagement\\Program.cs",
+              "RelativeToolTip": "HrManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:12:35.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
